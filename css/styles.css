@@ -1,0 +1,28 @@
+#smaller{
+  width: 55%;
+}
+
+.initially_hidden{
+  display: none;
+}
+
+.clickable{
+  color: skyblue;
+}
+
+.clickable:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+p{
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 18px;
+}
+
+body{
+  text-align: center;
+  background-color: #926239;
+}
