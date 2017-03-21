@@ -26,3 +26,27 @@ body{
   text-align: center;
   background-color: #926239;
 }
+
+.side-bar{
+  float: right;
+  position: fixed;
+}
+
+.side-bar-button .btn{
+  margin: 70px 0px 0px 20px;
+  color: #fff;
+}
+
+.btn-initial{
+  background-color: #000;
+}
+
+.inverted {
+  background-color: #111;
+  color: #eee;
+}
+
+.btn-inverted{
+  background-color: #926239;
+
+}

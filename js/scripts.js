@@ -6,5 +6,11 @@ $(function(){
     });
   });
 
+  $(".btn").click(function(){
+    $(".side-bar-button .btn").toggleClass("btn-initial");
+    $("body").toggleClass("inverted");
+    $(".side-bar-button .btn").toggleClass("btn-inverted");
+
+  });
 
 });
